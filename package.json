@@ -1,7 +1,12 @@
 {
   "name": "jobs-list",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "React training app",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bnsrel/jobs-list.git"
+},
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
